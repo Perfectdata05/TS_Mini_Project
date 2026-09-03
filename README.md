@@ -17,5 +17,5 @@ This primary source of Data used here is Excel dataset Sale.xlsx and this is an 
    3. Visualizations
 - Github for Portfolio Building
 
-# Data Cleaning And Preparations
+## Data Cleaning And Preparations
 In the initial phase of the Data cleaning and preparations, we perform the following action;
