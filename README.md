@@ -10,5 +10,9 @@ The project demonstrates the use of data preparation, data modelling, DAX, Power
 ### Data Sources
 This primary source of Data used here is Excel dataset Sale.xlsx and this is an open source data that can be freely download from an open source online such as Kaggle or any other data repository site.
 
-###Tools Used
-P
+### Tools Used
+- PowerBI [Download Here](https://app.powerbi.com)
+   1.  Power Query for Data Cleaning
+   2.  Data modelling and DAX calculations to create the required KPIs and analytical measures.
+   3. Visualizations
+- Github for Portfolio Building
