@@ -20,14 +20,14 @@ This primary source of Data used here is Excel dataset Sale.xlsx and this is an 
    3.  Visualizations
 - Github for Portfolio Building
 
-## Data Cleaning And Preparations
+### Data Cleaning And Preparations
 ---
 In the initial phase of the Data cleaning and preparations, we perform the following action;
 1. Data loading and Inspection
 2. Handling missing Variables
 3. Data Cleaning and formatting
 
-#### Exploratory Data Analysis
+### Exploratory Data Analysis
 ---
 EDA involved the exploring of the Data to answer some questions about the Data such as:
   - Which brand of product is the most profitable
