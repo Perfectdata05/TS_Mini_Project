@@ -61,3 +61,5 @@ DISTINCTCOUNT(Sales[CustomerID])
 <img width="1278" height="732" alt="Screenshot 2026-09-01 141141" src="https://github.com/user-attachments/assets/395b24e6-9653-4852-9728-b2c3b1b356de" />
 
 
+
+
