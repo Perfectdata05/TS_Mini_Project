@@ -19,3 +19,18 @@ This primary source of Data used here is Excel dataset Sale.xlsx and this is an 
 
 ## Data Cleaning And Preparations
 In the initial phase of the Data cleaning and preparations, we perform the following action;
+1. Data loading and Inspection
+2. Handling missing Variables
+3. Data Cleaning and formatting
+
+#### Exploratory Data Analysis
+EDA involved the exploring of the Data to answer some questions about the Data such as:
+  - Which brand of product is the most profitable
+  - Which colour is top sellers
+  - which is the worst performing month?
+  - Which level of income has the highest profit?
+  - What is the yearly revenue?
+
+### Data Analysis 
+ This is where include some basic lines of code or even some of the DAX expressions used during your analysis;
+ 
