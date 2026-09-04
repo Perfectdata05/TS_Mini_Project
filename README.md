@@ -2,6 +2,20 @@
 
 ### Project Title : E commerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning And Preparations
+
+Exploratory Data Analysis
+
+Data Analysis 
+
+[Data Visualization](#data-visualization)
+
 ### Project Overview
 ---
 This project focuses on developing an interactive Sales and Customer Analytics Dashboard using Power BI to provide a comprehensive view of business performance. The dashboard analyses key performance indicators including revenue, cost, profit, sales, and customer performance.
